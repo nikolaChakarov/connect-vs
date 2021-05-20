@@ -1,0 +1,8 @@
+git init - Initialize Local Git Repository
+git add <file> - Add File(s) To Index (the staging area) and they will be ready for commit
+git status - Check status of working tree (what we do have in the staging area and ready for commit)
+git commit - Commit Changes In Index (it takes everithing in the staging area and put it into the local repository)
+
+git push - Push Local Repository To Remote Repository
+git pull - Pull Latest Changes From Remote Repository
+git clone - Clone Repository Into A New Directory (copy remote repository into your current folder)
