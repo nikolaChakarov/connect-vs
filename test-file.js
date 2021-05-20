@@ -1,0 +1,1 @@
+let str = 'some text for testing the git commands...';
