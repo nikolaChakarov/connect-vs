@@ -6,3 +6,7 @@ git commit - Commit Changes In Index (it takes everithing in the staging area an
 git push - Push Local Repository To Remote Repository
 git pull - Pull Latest Changes From Remote Repository
 git clone - Clone Repository Into A New Directory (copy remote repository into your current folder)
+
+-------------
+git branch <branch name> - Create New Branch On Local Repository
+git checkout <branch name> - Change The Current Branch
